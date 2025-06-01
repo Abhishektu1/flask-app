@@ -55,8 +55,8 @@ Automates the following security controls on Ubuntu servers:
 
 - Ubuntu server or EC2 instance.
 - Ansible installed on your control machine.
-- Python 3.10+ installed for the Flask app.
-- Docker installed (optional, for containerization).
+- Python 3.10.12 installed for the Flask app.
+- Docker installed ( for containerization).
 - SSH private key to connect to target Ubuntu servers.
 
 ### Running the Flask App Locally
